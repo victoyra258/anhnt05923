@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "id": "aw6adasqu",
+      "name": "Man Hoodie 1111",
+      "cate": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/test-ac1a1.appspot.com/o/images%2F5eed8c2104f8573b255c474a0b0baaf4.jpg_600x600q80.jpg?alt=media&token=a5950f39-0223-4fc8-889e-e975ce71d9d9",
+      "price": "300.000",
+      "sale": "250.000",
+      "desc": "<p>&Aacute;o Hoodie Nam</p>"
+    },
+    {
+      "id": "povzkwh7y",
+      "name": "Áo Hoodie Nam",
+      "cate": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/test-ac1a1.appspot.com/o/images%2F65a5442c191932baba4a0fcfce7b6701.jpg?alt=media&token=84fb5eed-8ad0-4c8b-9fed-a9ab5303e8b8",
+      "price": "300.000",
+      "sale": "200.000",
+      "desc": "<p>&Aacute;o Hoodie Nam</p>"
+    },
+    {
+      "id": "0nslno6bn",
+      "name": "Áo Hoodie Nam",
+      "cate": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/test-ac1a1.appspot.com/o/images%2F67b731aa8f8c15b36cbb177c75bde3db.jpg?alt=media&token=baffcf76-38e5-4f76-a897-6c17241958ad",
+      "price": "500.000",
+      "sale": "300.000",
+      "desc": "<p>&Aacute;o hoodie Nam</p>"
+    },
+    {
+      "id": "h20gu4tvi",
+      "name": "11111",
+      "cate": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/test-ac1a1.appspot.com/o/images%2Fao-hoodie-ni-ngoai-2-6744.jpg?alt=media&token=6141a0d0-b026-492f-a919-17b0368e593d",
+      "price": "300000",
+      "sale": "500.000",
+      "desc": "<p>1111</p>"
+    },
+    {
+      "id": "b5evqe40f",
+      "name": "111111",
+      "cate": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/test-ac1a1.appspot.com/o/images%2Fao-hoodie-ni-ngoai-2-6744.jpg?alt=media&token=69b10544-3519-4706-832e-8d82638e3ab6",
+      "price": "11111",
+      "sale": "111111",
+      "desc": "<p>111111</p>"
+    },
+    {
+      "id": "tyclhb2ws",
+      "name": "hooddy",
+      "cate": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/test-ac1a1.appspot.com/o/images%2Ft%E1%BA%A3i%20xu%E1%BB%91ng%20(3).jpg?alt=media&token=9d3bff88-3c4c-40e6-b57e-34d732b8546d",
+      "price": "1000",
+      "sale": "3000",
+      "desc": ""
+    },
+    {
+      "id": "ciyt20urh",
+      "name": "qqqqq",
+      "cate": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/test-ac1a1.appspot.com/o/images%2Ft%E1%BA%A3i%20xu%E1%BB%91ng%20(2).jpg?alt=media&token=77f8d224-0733-4d0d-b00e-8e0f0c440d1c",
+      "price": "11111",
+      "sale": "11111",
+      "desc": "<p>111111</p>"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Quần Áo Nam"
+    },
+    {
+      "id": "2",
+      "name": "Quần Áo Nữ"
+    }
+  ]
+}
